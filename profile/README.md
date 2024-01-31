@@ -16,17 +16,13 @@
 
 ## 这是我们的一些技术标签：
 
-![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/debian-0078d6?style=flat-square&logo=debian&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS-275ee4?style=flat-square&logo=css3&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-eeca03?style=flat-square&logo=javascript&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
-
-## 📈 我们的成就
-
-![ZL Server GitHub stats](https://github-readme-stats.vercel.app/api?username=ZL-Server&show_icons=true&theme=radical)
 
 ## 联系我们
 
